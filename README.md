@@ -13,5 +13,5 @@ Easily change the css to get the look and feel you desire.
 
 **Libraries Used:**
   1. KnockoutJS
-  2. LightboxJX
+  2. LightboxJS
 
