@@ -6,13 +6,13 @@ When clicking the image lightbox modal appears which lets you scroll through all
 
 
 How To Use:
-1) Clone the Git Repo
-2) Change the id in the configuration from 'cocacola' to your page id.
+	1) Clone the Git Repo
+	2) Change the id in the configuration from 'cocacola' to your page id.
 
 
 Easily change the css to make it look like you want!
 
 Libraries Used:
-KnockoutJS
-Lightbox
+	KnockoutJS
+	Lightbox
 
