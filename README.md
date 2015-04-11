@@ -5,7 +5,6 @@ First shows the pages albums. After click the albums retrieves all images asscoc
 When clicking the image lightbox modal appears which lets you scroll through all the images in that album. 
 
 
-
 How To Use:
 1) Clone the Git Repo
 2) Change the id in the configuration from 'cocacola' to your page id. 
