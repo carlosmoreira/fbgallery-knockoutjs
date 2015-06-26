@@ -1,6 +1,6 @@
 *******NOTICE*******
 Due to Facebooks latest API change. The application has stopped working. The Facebook code needs to be adjusted to meet the latest version of the Facebook API.
-******* End NOTICE*******
+*******NOTICE*******
 
 **Description**
 
